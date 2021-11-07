@@ -1,5 +1,5 @@
 {
-    "name": "divyasunarc/Demo",
+    "name": "divyasunarc/demo",
     "description": "Demo extension for package",
     "keywords": [
         "magento-2",
@@ -33,3 +33,4 @@
       }
     }
   }
+  
